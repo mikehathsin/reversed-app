@@ -1,0 +1,6 @@
+[submodule "reversed-app-server"]
+	path = reversed-app-server
+	url = https://github.com/mikehathsin/reversed-app-server
+[submodule "reversed-app-client"]
+	path = reversed-app-client
+	url = https://github.com/mikehathsin/reversed-app-client
